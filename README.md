@@ -2,7 +2,7 @@
 
 Welcome to the WeLoveMovies Front End Application for the WeLoveMovies project.
 
-[Front End Deployed](https://i-love-moveies-frontend.onrender.com/)
+[Link to front-end deployment](https://i-love-moveies-frontend.onrender.com/)
 
 
 
